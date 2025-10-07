@@ -34,7 +34,7 @@ theme       : godel
 
 <!-- _class: titlepage -->
 
-![bg left:33%](..img/data_background.jpg)
+![bg left:33%](./img/data_background.jpg)
 
 <div class="title"         > Introduction aux métiers </div>
 <div class="subtitle"      > INTM1 </div>
@@ -120,7 +120,7 @@ Vous trouverez le support de la présentation d'aujourd'hui sur PoEsi. C'est aus
 
 <!-- _class: transition2 -->  
 
-![bg opacity:70% h:500px](..img/nuage_metiers.png)
+![bg opacity:70% h:500px](./img/nuage_metiers.png)
  
 <!--
 Si je consulte une liste des métiers de l’informatique, comme la page les métiers de l'informatique de Wikipedia (https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:M%C3%A9tier_de_l%27informatique) voici des exemples de ce que je peux y trouver.
@@ -152,7 +152,7 @@ L'objectif de la séance d'aujourd'hui est de dévoiler les tâches et les respo
 
 <center>
 
-![h:450 left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/actiris2025.png)
+![h:450 left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/actiris2025.png)
 
 </center>
 
@@ -179,7 +179,7 @@ On peut déjà voir apparaitre les métiers de développeur, de Security Officer
 # Recherche d'emploi : offres spécialisées
 <div>
 
-![h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/ictjob.png)
+![h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/ictjob.png)
 
 </div>
 
@@ -270,7 +270,7 @@ Pour information les noms donnés à ces trois informaticiens viennent d'une hab
 <!-- _class: transition2 -->  
 
  Première partie<br> **Le développement d'applications**
-![bg opacity:30%](..img/devapp.jpg)
+![bg opacity:30%](./img/devapp.jpg)
 
 ---        
      
@@ -283,7 +283,7 @@ Pour information les noms donnés à ces trois informaticiens viennent d'une hab
 
 <center>
 
-![h:200](..img/requirements.png)
+![h:200](./img/requirements.png)
 
 <figcaption align="center">
 <b>Figure</b>: Interface graphique demandée.
@@ -359,7 +359,7 @@ Une division classique du travail est la séparation entre la partie du logiciel
 <div align="center">
 
 
-![offreFrontEnd h:450 left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/frontend03.png)
+![offreFrontEnd h:450 left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/frontend03.png)
 
 </div>  
 <div>   
@@ -450,7 +450,7 @@ On y distingue ce qu'on appele les compétences techniques des compétences gén
 <div align="center">
 
 
-![backend h:450 left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/offreBack02.png)
+![backend h:450 left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/offreBack02.png)
 
 </div>  
 <div>   
@@ -535,7 +535,7 @@ Les cours d'analyse et de gestion de projet vont permettre d'apprendre comment o
 <div align="center">
 
 
-![fullstack h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/fullstack02.png)
+![fullstack h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/fullstack02.png)
 
 </div>  
 <div>   
@@ -573,7 +573,7 @@ Une solution est de demander à Alice de déposer son travail sur un serveur de 
 <div align="center">
 
 
-![fullstack h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/developperDaily.webp)
+![fullstack h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/developperDaily.webp)
 
 </div>  
 <div>   
@@ -611,7 +611,7 @@ Le second type d'interraction est résumé sur le slide par "Réunions". En fait
 <div align="center">
 
 
-![analyste h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/analyst_02.png)
+![analyste h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/analyst_02.png)
 
 </div>  
 <div>   
@@ -713,7 +713,7 @@ Pour détailler ce métier, on va partir d'une offre d'emploi d'analyse fonction
 <div class="columns">            
 <div align="center">
 
-![analyste h:100  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/logo-wooclap.png)
+![analyste h:100  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/logo-wooclap.png)
 
 <!-- _class: cool-list -->
 
@@ -723,7 +723,7 @@ Pour détailler ce métier, on va partir d'une offre d'emploi d'analyse fonction
 </div>  
 <div>
 
-![analyste h:400  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/pause.jpg)
+![analyste h:400  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/pause.jpg)
 
 </div>
 </div>
@@ -735,7 +735,7 @@ Pour détailler ce métier, on va partir d'une offre d'emploi d'analyse fonction
 <div align="center">
 
 
-![analyste h:500  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/Software-Release-Management-.webp)
+![analyste h:500  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/Software-Release-Management-.webp)
 
 </div>  
 <div>
@@ -795,7 +795,7 @@ Pour détailler ce métier, on va partir d'une offre d'emploi d'analyse fonction
 <div align="center">
 
 
-![analyste h:200  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/dilbertConsultant.jpg)
+![analyste h:200  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/dilbertConsultant.jpg)
 
 </div> 
 <div>
@@ -838,7 +838,7 @@ Le rôle du consultant informatique consiste à fournir des conseils, une expert
 
 <center>
 
-![h:300](..img/prometeus.png)
+![h:300](./img/prometeus.png)
 
 <figcaption align="center">
 <b>Figure</b>: Monitoring réseau via Prometheus et Grafana
@@ -870,7 +870,7 @@ Le rôle du consultant informatique consiste à fournir des conseils, une expert
 
 <center>
 
-![h:400 ](..img/terraform.png)
+![h:400 ](./img/terraform.png)
 
 <figcaption align="center">
 <b>Figure</b>: Terraform et IAC
@@ -922,7 +922,7 @@ sur Wikipédia ">
 <div align="center">
 
 
-![cloud h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/ingenieurReseau.png)
+![cloud h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/ingenieurReseau.png)
 
 </div>  
 <div>   
@@ -947,7 +947,7 @@ sur Wikipédia ">
 <div align="center">
 
 
-![cloud h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/cloudArchitect.png)
+![cloud h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/cloudArchitect.png)
 
 </div>  
 <div>   
@@ -1032,7 +1032,7 @@ sur Wikipédia ">
 <div align="center">
 
 
-![fullstack h:400  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/sysadmin.jpg)
+![fullstack h:400  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/sysadmin.jpg)
 
 </div>  
 <div>   
@@ -1064,7 +1064,7 @@ sur Wikipédia ">
 <div class="columns">            
 <div align="center">
 
-![analyste h:100  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/logo-wooclap.png)
+![analyste h:100  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/logo-wooclap.png)
 
 <!-- _class: cool-list -->
 
@@ -1074,7 +1074,7 @@ sur Wikipédia ">
 </div>  
 <div>
 
-![analyste h:400  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/pause.jpg)
+![analyste h:400  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/pause.jpg)
 
 </div>
 </div>
@@ -1108,7 +1108,7 @@ Lancer un QCM avec des questions comme :
 
 <center>
 
-![h:400 ](..img/ArduinoRaspberryPi)
+![h:400 ](./img/ArduinoRaspberryPi)
 
 <figcaption align="center">
 <b>Figure</b>: Arduino et Rasberry Pi
@@ -1156,7 +1156,7 @@ Les gestionnaires du cinéma souhaitent rendre les salles de cinéma plus intell
 <div align="center">
 
 
-![cloud h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/iotEngineer.png)
+![cloud h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/iotEngineer.png)
 
 </div>  
 <div>   
@@ -1243,7 +1243,7 @@ Les gestionnaires du cinéma souhaitent rendre les salles de cinéma plus intell
 <div align="center">
 
 
-![fullstack h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/testIndu.png)
+![fullstack h:450  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/testIndu.png)
 
 </div>  
 <div>   
@@ -1276,7 +1276,7 @@ Les gestionnaires du cinéma souhaitent rendre les salles de cinéma plus intell
 <div >
 
 
-![analyste h:120  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/salaire-01.png)
+![analyste h:120  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/salaire-01.png)
 
 </div>  
 <div>   
@@ -1303,7 +1303,7 @@ Pour détailler ce métier, on va partir d'une offre d'emploi d'analyse fonction
 <div class="columns">            
 <div align="center">
 
-![analyste h:100  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/logo-wooclap.png)
+![analyste h:100  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/logo-wooclap.png)
 
 <!-- _class: cool-list -->
 
@@ -1313,7 +1313,7 @@ Pour détailler ce métier, on va partir d'une offre d'emploi d'analyse fonction
 </div>  
 <div>
 
-![analyste h:400  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](..img/pause.jpg)
+![analyste h:400  left drop-shadow:0,5px,10px,rgba(0,0,0,.4)](./img/pause.jpg)
 
 </div>
 </div>      
