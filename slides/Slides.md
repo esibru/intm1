@@ -911,7 +911,7 @@ Bob a également des tâches de support. Bob élaborer et mettre en œuvre un pl
 <div class="cite-author" data-text="Infrastructure as code
 sur Wikipédia ">
 
-"**Infrastructure as code** est un ensemble de mécanismes permettant de gérer, par des fichiers descripteurs ou des **scripts**, une infrastructure **virtuelle**. L'évolution des offres dans le domaine de la virtualisation a rendu possible la gestion d'une infrastructure à part entière incluant entre autres la gestion du service **DNS**, du **Load-Balancing**, des **sous-réseaux** et des **groupes de sécurité**. Elle offre aux développeurs la possibilité d'**automatiser leurs déploiements**. "
+"**Infrastructure as code** est un ensemble de mécanismes permettant de gérer, par des fichiers descripteurs ou des **scripts**, une infrastructure **virtuelle** ... la virtualisation a rendu possible la gestion d'une infrastructure à part entière incluant entre autres la gestion du service **DNS**, du **Load-Balancing**, des **sous-réseaux** et des **groupes de sécurité**. Elle offre aux développeurs la possibilité d'**automatiser leurs déploiements**. "
 
 </div>
 
@@ -1428,14 +1428,6 @@ G. Développeur mobile
 <!-- _class: transition2 -->  
 
 ![bg opacity:50%](https://www.link2fleet.be/wp-content/uploads/2021/05/Question-reponse-1.jpg)
-
----        
-
-<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/NKRSZO/results" width="100%"></iframe>
-
-<!--
- - Afficher les noms de métiers encodés par les étudiants tout en répondant aux questions
--->
 
 --- 
 
